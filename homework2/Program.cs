@@ -77,6 +77,7 @@ namespace MergeDataAndDoc
             }
         }
 
+
         public static void StringMethod(TextReader inputFile, TextReader inputFile1, TextWriter outputFile)
         {
             string line; //test  
